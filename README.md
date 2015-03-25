@@ -1,2 +1,2 @@
-# projeto-gcs-trabalho1-grupo01
-Repositório da disciplina Gerência de Configuração 2015/1
+# projeto-gcs-trabalho1-grupo05
+Repositório da disciplina de Gerência de Configuração de Software 2015/1
