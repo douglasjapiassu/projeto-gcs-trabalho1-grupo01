@@ -2,3 +2,8 @@ Nome artefato: DocPlanejamentoDouglas.txt
 Nome do autor: Douglas Tavares de Azevedo Japiassu
 Data de criação: 13/04/2015
 Hora de criação: 19:10:00
+
+Nome artefato: DocPlanejamentoDouglas.txt
+Nome do autor da alteração: Everton José dos Santos
+Data de cria??o: 13/04/2015
+Hora de cria??o: 19:52:00
