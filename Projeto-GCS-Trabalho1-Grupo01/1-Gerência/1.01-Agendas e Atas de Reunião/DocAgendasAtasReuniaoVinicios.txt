@@ -2,3 +2,8 @@ Nome artefato: DocAgendasAtasReuniaoVinicios.txt
 Nome do(a) autor(a): Vinicios Souza de Melo
 Data de criação: 13/04/2015
 Hora de criação: 19:59:19
+
+Nome artefato: DocAgendasAtasReuniaoVinicios.txt
+Nome do(a) autor(a) da alteração: Valquer Diniz Novaes
+Data da alteração: 13/06/2015
+Hora da alteração: 20:25:00

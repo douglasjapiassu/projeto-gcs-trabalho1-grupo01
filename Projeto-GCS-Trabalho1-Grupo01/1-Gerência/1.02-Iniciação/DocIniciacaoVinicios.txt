@@ -2,3 +2,8 @@ Nome artefato: DocIniciacaoVinicios.txt
 Nome do(a) autor(a): Vinicios Souza de Melo
 Data de criação: 13/04/2015
 Hora de criação: 20:01:21
+
+Nome artefato: DocIniciacaoVinicios.txt
+Nome do(a) autor(a) da alteração: Valquer Diniz Novaes
+Data da alteração: 13/06/2015
+Hora da alteração: 20:22:04
