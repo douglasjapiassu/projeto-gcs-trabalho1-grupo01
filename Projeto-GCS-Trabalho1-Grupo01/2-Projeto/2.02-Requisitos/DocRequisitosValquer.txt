@@ -1,4 +1,6 @@
 Nome artefato: DocRequisitosValquer.txt
 Nome do(a) autor(a): Valquer Diniz Novaes
+Incluindo novas informações entre linhas existentes.
 Data de criação: 13/04/2015
-Hora de criação: 20:42:02
+Alterando linha existente - Hora de criação: 20:42:02
+Novas informações no final do arquivo
