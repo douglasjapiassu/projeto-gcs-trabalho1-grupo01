@@ -2,3 +2,5 @@ Nome artefato: DocRequisitosValquer.txt
 Nome do(a) autor(a): Valquer Diniz Novaes
 Data de criação: 13/04/2015
 Hora de criação: 20:42:02
+Fazendo alterações no “trunk”, pasta “2.02-Requisitos”:
+"Inclua novas linhas no final do documento".
